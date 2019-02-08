@@ -53,7 +53,7 @@ namespace NYF_Bank
             accountNumber = ac;
             balance = b;
             overdraft = o;
-
+            
             int counter = 0;
             for (int i = 0; i < MAX_CUST; i++)
             {
